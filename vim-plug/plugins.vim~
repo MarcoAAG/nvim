@@ -17,9 +17,4 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'ajmwagar/vim-deus'
     Plug 'sainnhe/edge'
     Plug 'arzg/vim-colors-xcode'
-    
-    "Airline
-    Plug 'vim-airline/vim-airline'   
-
-
 call plug#end()
