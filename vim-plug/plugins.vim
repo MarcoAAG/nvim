@@ -11,6 +11,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Auto pairs for '(' '[' '{'
     Plug 'jiangmiao/auto-pairs'
 
+    " for auto-comment
+    Plug 'KarimElghamry/vim-auto-comment'
+
 		" Themes
 	  Plug 'joshdick/onedark.vim'
     Plug 'whatyouhide/vim-gotham'

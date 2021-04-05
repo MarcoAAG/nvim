@@ -19,7 +19,7 @@ set timeoutlen=500          " By default timeoutlen is 1000 ms
 set formatoptions-=cro      " Stop newline continution of comments
 set clipboard=unnamedplus   " Copy paste between vim and everything else
 set history=50							" Keep 50 commands and 50 search patterns in the history
-set backup									" To keep a backup copy of a file when overwriting it
+" set backup									" To keep a backup copy of a file when overwriting it
 set number            			" Line numbers
 set relativenumber					" turn relative line numbers on
 set rnu
