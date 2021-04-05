@@ -13,6 +13,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
     " for auto-comment
     Plug 'KarimElghamry/vim-auto-comment'
+    
+    " vim-visual-multi
+    Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 
 		" Themes
 	  Plug 'joshdick/onedark.vim'
